@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 <img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 
 <br><hr>
-<img align="left" alt="hackingguy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xRyuk&show_icons=true&hide_border=true" />
+<img align="left" alt="hackingguy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xRyuk&show_icons=true&hide_border=true&theme=dracula" />
